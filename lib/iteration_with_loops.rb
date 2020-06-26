@@ -8,7 +8,7 @@ def find_min_in_nested_arrays(src)
     smallest[i]=new[0]
     i+=1 
   end 
-    
+  smallest 
   
 
 end
